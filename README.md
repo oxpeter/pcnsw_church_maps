@@ -11,7 +11,7 @@ shows the locations of all the churches and their basic details:
 * address
 * website
 
-[church address map](img/pressy_churches_by_address_map.png)
+![church address map](img/pressy_churches_by_address_map.png)
 
 The second map is more for strategic planning purposes, and is more complex. It contains
 a set of different overlays and colour schemes that can be selected. Churches can be 
@@ -26,4 +26,4 @@ this includes:
 * number of people self-identifying as Presbyterian
 * number of Presbyterians per 1,000 persons 
 
-[census data map](img/church_plus_abs.png)
+![census data map](img/church_plus_abs.png)
