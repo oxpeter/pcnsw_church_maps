@@ -1,3 +1,6 @@
+.gitignore
 .env
 .ipynb_checkpoints/*
 .ipynb_checkpoints
+ABS_data
+ABS_data/*
